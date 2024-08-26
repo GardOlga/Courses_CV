@@ -1,0 +1,48 @@
+{
+ "firstName" : "Olga",
+ "lastName"  : "Gard",
+ "gender"    : "female",
+ "birthday"  : "10.06.1992",
+ "about"     : "Text about me...",
+ "contact"   : [
+                 { 
+				   "mob1" : "111111",
+                   "mob2" : "222222"				 
+				 }
+                ],
+				
+ "specialization"  : "QA Engineer",
+ "education"       : [
+                       {
+					   "univer" : "Text...",
+					   "graduationDate" : "2014",
+					   "qualification"  : "Text..."
+					   }
+                     ],
+ "workExperience"  :  [
+                       {
+					   "company"     : "Text...",
+					   "yearFrom"    : "2014",
+					   "yearEnd"     : "2016",
+					   },
+					   {
+					   "company"     : "Text2...",
+					   "yearFrom"    : "2016",
+					   "yearEnd"     : "2017",
+					   }
+                     ],
+ "skills"    : ["skill_1","skill_2","skill_3","skill_4"],
+ "tools"     : ["tool_1","tool_2","tool_3","tool_4"],
+ "certifications"   : "Text....",
+ "languages" : [
+                 { 
+				   "language_1" : "Text...",
+                   "lavel" : "text.."				 
+				 },
+				 { 
+				   "language_2" : "Text...",
+                   "lavel" : "text.."				 
+				 }
+                ]
+  
+}
